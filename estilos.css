@@ -24,14 +24,21 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    background-color: rgb(71, 232, 243);
 }
 
 main {
     flex: 1;
 
 }
+
 .cabecalho-link {
     color: #fff;
     text-decoration: none;
 }
-
+h1 { 
+    color: #fff;
+}
+footer {
+    background-color: rgb(27, 198, 228);
+}
