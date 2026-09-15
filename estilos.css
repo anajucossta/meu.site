@@ -38,6 +38,7 @@ main {
 }
 h1 { 
     color: #0e0d0d;
+    font-size: 24px;
 }
 footer {
     background-color: rgb(27, 198, 228);
