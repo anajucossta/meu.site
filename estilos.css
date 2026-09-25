@@ -54,4 +54,9 @@ footer {
     position:absolute;
     border-radius: 12px;
     box-shadow: 0 6px 12px;
+    backface-visibility: hidden;
+}
+
+.cartao-verso {
+    transform: rotatey(180deg);
 }
