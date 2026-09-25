@@ -5,10 +5,10 @@ padding: 0;
 
 .cabecalho {
 padding: 15px 5px;
-display: flex;2
+display: flex;
 justify-content: space-between;
 align-items: center;
-background-color: rgb(27, 198, 228);
+background-color : rgb(27, 198, 228);
 }
 
 .cartao {
